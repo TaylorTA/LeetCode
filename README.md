@@ -20,6 +20,7 @@
 9. 665 Non-decreasing Array
 10. 1029 Two City Scheduling
 11. 948 Bag of Tokens
+12. 1383 Maximum Performance of a Team
 # Sliding Window
 1. 76	Minimum Window Substring
 # Dynamic Programming
