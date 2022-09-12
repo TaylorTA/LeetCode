@@ -19,6 +19,7 @@
 8. 406 Queue Reconstruction by Height
 9. 665 Non-decreasing Array
 10. 1029 Two City Scheduling
+11. 948 Bag of Tokens
 # Sliding Window
 1. 76	Minimum Window Substring
 # Dynamic Programming
