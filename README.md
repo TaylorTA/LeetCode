@@ -1,6 +1,6 @@
 # Two Pointers
-1. 015 Three Sum
-2. 016 Three Sum Closest
+1. 15 Three Sum
+2. 16 Three Sum Closest
 3. 167 Two Sum II - Input Array Is Sorted
 4. 88	Merge Sorted Array
 5. 142 Linked List Cycle II
