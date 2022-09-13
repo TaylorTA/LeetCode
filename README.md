@@ -44,6 +44,7 @@
 7. 196 Delete Duplicate Emails
 8. 1667 Fix Names in a Table
 9. 1484 Group Sold Products By The Date
+10. 1527 Patients With a Condition
 # Array
 1. 682 Baseball Game
 2. 1260 Shift 2D Grid
