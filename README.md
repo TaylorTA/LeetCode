@@ -49,3 +49,5 @@
 4. 724 Find Pivot Index
 # String
 1. 205 Isomorphic Strings
+# Bit Manipulation
+1. 393 UTF-8 Validation
