@@ -42,6 +42,7 @@
 5. 1873 Calculate Special Bonus
 6. 627 Swap Salary
 7. 196 Delete Duplicate Emails
+8. 1667 Fix Names in a Table
 # Array
 1. 682 Baseball Game
 2. 1260 Shift 2D Grid
