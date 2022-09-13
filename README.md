@@ -56,3 +56,4 @@
 1. 393 UTF-8 Validation
 # Linked List
 1. 21 Merge Two Sorted Lists
+2. 206 Reverse Linked List
