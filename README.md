@@ -59,3 +59,5 @@
 2. 206 Reverse Linked List
 # Design
 1. 362 Design Hit Counter
+# Binary Tree
+1. 1457 Pseudo-Palindromic Paths in a Binary Tree
