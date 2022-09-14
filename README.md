@@ -57,6 +57,7 @@
 # Linked List
 1. 21 Merge Two Sorted Lists
 2. 206 Reverse Linked List
+3. 876 Middle of the Linked List
 # Design
 1. 362 Design Hit Counter
 # Binary Tree
