@@ -63,3 +63,5 @@
 # Binary Tree
 1. 1457 Pseudo-Palindromic Paths in a Binary Tree
 2. 298 Binary Tree Longest Consecutive Sequence
+# Hash Table
+1. 2007 Find Original Array From Doubled Array
