@@ -22,6 +22,7 @@
 10. 1029 Two City Scheduling
 11. 948 Bag of Tokens
 12. 1383 Maximum Performance of a Team
+13. 121 Best Time to Buy and Sell Stock
 # Sliding Window
 1. 76	Minimum Window Substring
 2. 159 Longest Substring with At Most Two Distinct Characters
