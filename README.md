@@ -65,8 +65,9 @@
 4. 142 Linked List Cycle II
 # Design
 1. 362 Design Hit Counter
-# Binary Tree
+# Tree
 1. 1457 Pseudo-Palindromic Paths in a Binary Tree
 2. 298 Binary Tree Longest Consecutive Sequence
+3. 589 N-ary Tree Preorder Traversal
 # Hash Table
 1. 2007 Find Original Array From Doubled Array
