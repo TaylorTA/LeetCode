@@ -56,6 +56,7 @@
 # String
 1. 205 Isomorphic Strings
 2. 409 Longest Palindrome
+3. 336 Palindrome Pairs
 # Bit Manipulation
 1. 393 UTF-8 Validation
 # Linked List
