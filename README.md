@@ -34,6 +34,8 @@
 # Binary Search
 1. 81 Search in Rotated Sorted Array II
 2. 74 Search a 2D Matrix
+3. 704 Binary Search
+4. 278 First Bad Version
 # Heap
 1. 703 Kth Largest Element in a Stream
 2. 347 Top K Frequent Elements
@@ -53,7 +55,6 @@
 2. 1260 Shift 2D Grid
 3. 1480 Running Sum of 1d Array
 4. 724 Find Pivot Index
-5. 704 Binary Search
 # String
 1. 205 Isomorphic Strings
 2. 409 Longest Palindrome
