@@ -74,6 +74,7 @@
 2. 298 Binary Tree Longest Consecutive Sequence
 3. 589 N-ary Tree Preorder Traversal
 4. 102 Binary Tree Level Order Traversal
+5. 98 Validate Binary Search Tree
 # Hash Table
 1. 2007 Find Original Array From Doubled Array
 2. 609 Find Duplicate File in System
