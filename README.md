@@ -32,6 +32,7 @@
 3. 188 Best Time to Buy and Sell Stock IV
 4. 1770 Maximum Score from Performing Multiplication Operations
 5. 42 Trapping Rain Water
+6. 509 Fibonacci Number
 # Binary Search
 1. 81 Search in Rotated Sorted Array II
 2. 74 Search a 2D Matrix
