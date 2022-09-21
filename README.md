@@ -34,6 +34,7 @@
 5. 42 Trapping Rain Water
 6. 509 Fibonacci Number
 7. 70 Climbing Stairs 
+8. 746 Min Cost Climbing Stairs
 # Binary Search
 1. 81 Search in Rotated Sorted Array II
 2. 74 Search a 2D Matrix
