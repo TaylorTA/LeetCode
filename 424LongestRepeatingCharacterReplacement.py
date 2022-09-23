@@ -9,7 +9,7 @@ class Solution:
             scount[s[i]] += 1
             
             maxc = scount.most_common(1)[0][1]
-            while(sum(scount.values())-maxc > k):
+            while((i-left+1)-maxc > k):
                 if scount[s[left]] == 1:
                     scount.pop(s[left])
                 else:
@@ -17,6 +17,6 @@ class Solution:
                 left += 1
                 maxc = scount.most_common(1)[0][1]
             
-            long = max(long, sum(scount.values()))
+            long = max(long, i-left+1)
         
         return long
