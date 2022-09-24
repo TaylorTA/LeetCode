@@ -88,6 +88,7 @@
 # Hash Table
 1. 2007 Find Original Array From Doubled Array
 2. 609 Find Duplicate File in System
+3. 1 Two Sum
 # Graph
 1. 733 Flood Fill
 2. 200 Number of Islands
