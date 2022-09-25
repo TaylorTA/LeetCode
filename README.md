@@ -45,6 +45,7 @@
 # Heap
 1. 703 Kth Largest Element in a Stream
 2. 347 Top K Frequent Elements
+3. 1046. Last Stone Weight
 # SQL
 1. 595 Big Countries
 2. 1757 Recyclable and Low Fat Products
