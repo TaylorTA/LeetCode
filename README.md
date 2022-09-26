@@ -66,6 +66,7 @@
 4. 724 Find Pivot Index
 5. 985 Sum of Even Numbers After Queries
 6. 217 Contains Duplicate
+7. 1272 Remove Interval
 # String
 1. 205 Isomorphic Strings
 2. 409 Longest Palindrome
