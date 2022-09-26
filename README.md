@@ -64,6 +64,7 @@
 3. 1480 Running Sum of 1d Array
 4. 724 Find Pivot Index
 5. 985 Sum of Even Numbers After Queries
+6. 217 Contains Duplicate
 # String
 1. 205 Isomorphic Strings
 2. 409 Longest Palindrome
