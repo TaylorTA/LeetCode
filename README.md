@@ -96,6 +96,7 @@
 # Graph
 1. 733 Flood Fill
 2. 200 Number of Islands
+3. 990 Satisfiability of Equality Equations
 # Stack
 1. 844 Backspace String Compare
 2. 394 Decode String
