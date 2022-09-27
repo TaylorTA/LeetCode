@@ -105,3 +105,5 @@
 # Stack
 1. 844 Backspace String Compare
 2. 394 Decode String
+# Math
+1. 1523 Count Odd Numbers in an Interval Range
