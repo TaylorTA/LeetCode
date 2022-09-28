@@ -86,6 +86,7 @@
 3. 876 Middle of the Linked List
 4. 142 Linked List Cycle II
 5. 19 Remove Nth Node From End of List
+6. 2 Add Two Numbers
 # Design
 1. 362 Design Hit Counter
 2. 622 Design Circular Queue
