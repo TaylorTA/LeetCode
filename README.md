@@ -111,3 +111,4 @@
 2. 394 Decode String
 # Math
 1. 1523 Count Odd Numbers in an Interval Range
+2. 1281 Subtract the Product and Sum of Digits of an Integer
