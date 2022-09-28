@@ -6,14 +6,12 @@
 class Solution:
     def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
         first = head
-        prev = None
         second = head
         
         if n == 1 and not head.next:
             return None
         
         for i in range(n):
-            prev = first
             first = first.next
         
         if not first:
