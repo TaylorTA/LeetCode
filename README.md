@@ -69,6 +69,7 @@
 7. 1272 Remove Interval
 8. 350 Intersection of Two Arrays II
 9. 1491 Average Salary Excluding the Minimum and Maximum Salary
+10. 566 Reshape the Matrix
 # String
 1. 205 Isomorphic Strings
 2. 409 Longest Palindrome
