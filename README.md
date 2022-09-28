@@ -79,6 +79,7 @@
 # Bit Manipulation
 1. 393 UTF-8 Validation
 2. 1680 Concatenation of Consecutive Binary Numbers
+3. 191 Number of 1 Bits
 # Linked List
 1. 21 Merge Two Sorted Lists
 2. 206 Reverse Linked List
