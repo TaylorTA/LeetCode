@@ -118,3 +118,4 @@
 1. 1523 Count Odd Numbers in an Interval Range
 2. 1281 Subtract the Product and Sum of Digits of an Integer
 3. 976 Largest Perimeter Triangle
+4. 1779 Find Nearest Point That Has the Same X or Y Coordinate
