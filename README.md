@@ -77,6 +77,7 @@
 3. 336 Palindrome Pairs
 4. 557 Reverse Words in a String III
 5. 838 Push Dominoes
+6. 2423 Remove Letter To Equalize Frequency
 # Bit Manipulation
 1. 393 UTF-8 Validation
 2. 1680 Concatenation of Consecutive Binary Numbers
