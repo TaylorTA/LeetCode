@@ -93,6 +93,7 @@
 # Design
 1. 362 Design Hit Counter
 2. 622 Design Circular Queue
+3. 2424 Longest Uploaded Prefix
 # Tree
 1. 1457 Pseudo-Palindromic Paths in a Binary Tree
 2. 298 Binary Tree Longest Consecutive Sequence
