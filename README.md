@@ -123,3 +123,4 @@
 3. 976 Largest Perimeter Triangle
 4. 1779 Find Nearest Point That Has the Same X or Y Coordinate
 5. 1822 Sign of the Product of an Array
+6. 202 Happy Number
