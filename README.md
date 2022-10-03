@@ -88,6 +88,7 @@
 2. 1680 Concatenation of Consecutive Binary Numbers
 3. 191 Number of 1 Bits
 4. 2425 Bitwise XOR of All Pairings
+5. 2429. Minimize XOR
 # Linked List
 1. 21 Merge Two Sorted Lists
 2. 206 Reverse Linked List
