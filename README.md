@@ -77,6 +77,7 @@
 13. 1502. Can Make Arithmetic Progression From Sequence
 14. 2428 Maximum Sum of an Hourglass
 15. 1588 Sum of All Odd Length Subarrays
+16. 283 Move Zeroes
 # String
 1. 205 Isomorphic Strings
 2. 409 Longest Palindrome
