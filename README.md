@@ -81,6 +81,7 @@
 4. 557 Reverse Words in a String III
 5. 838 Push Dominoes
 6. 2423 Remove Letter To Equalize Frequency
+7. 1790 Check if One String Swap Can Make Strings Equal
 # Bit Manipulation
 1. 393 UTF-8 Validation
 2. 1680 Concatenation of Consecutive Binary Numbers
