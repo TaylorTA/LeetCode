@@ -39,6 +39,7 @@
 8. 746 Min Cost Climbing Stairs
 9. 53 Maximum Subarray
 10. 91 Decode Ways
+11. 2430 Maximum Deletions on a String
 # Binary Search
 1. 81 Search in Rotated Sorted Array II
 2. 74 Search a 2D Matrix
