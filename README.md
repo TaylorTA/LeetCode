@@ -74,6 +74,7 @@
 11. 1155 Number of Dice Rolls With Target Sum
 12. 1578 Minimum Time to Make Rope Colorful
 13. 1502. Can Make Arithmetic Progression From Sequence
+14. 2428 Maximum Sum of an Hourglass
 # String
 1. 205 Isomorphic Strings
 2. 409 Longest Palindrome
