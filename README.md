@@ -79,6 +79,7 @@
 15. 1588 Sum of All Odd Length Subarrays
 16. 283 Move Zeroes
 17. 1672 Richest Customer Wealth
+18. 1572 Matrix Diagonal Sum
 # String
 1. 205 Isomorphic Strings
 2. 409 Longest Palindrome
