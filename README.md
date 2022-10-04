@@ -113,6 +113,7 @@
 5. 98 Validate Binary Search Tree
 6. 235 Lowest Common Ancestor of a Binary Search Tree
 7. 113 Path Sum II
+8. 112 Path Sum
 # Hash Table
 1. 2007 Find Original Array From Doubled Array
 2. 609 Find Duplicate File in System
