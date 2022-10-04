@@ -80,6 +80,7 @@
 16. 283 Move Zeroes
 17. 1672 Richest Customer Wealth
 18. 1572 Matrix Diagonal Sum
+19. 531 Lonely Pixel I
 # String
 1. 205 Isomorphic Strings
 2. 409 Longest Palindrome
