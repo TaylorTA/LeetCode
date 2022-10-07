@@ -108,6 +108,7 @@
 4. 142 Linked List Cycle II
 5. 19 Remove Nth Node From End of List
 6. 2 Add Two Numbers
+7. 1290 Convert Binary Number in a Linked List to Integer
 # Design
 1. 362 Design Hit Counter
 2. 622 Design Circular Queue
