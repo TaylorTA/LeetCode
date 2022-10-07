@@ -1,0 +1,19 @@
+from sortedcontainers import SortedList, SortedDict
+
+class Solution:
+    def sortByBits(self, arr: List[int]) -> List[int]:
+        dic = SortedDict()
+        
+        for n in arr:
+            nb = bin(n).count('1')
+            
+            if nb not in dic:
+                dic[nb] = SortedList()
+            dic[nb].add(n)
+        
+        op = []
+        for l in dic:
+            for n in dic[l]:
+                op.append(n)
+        
+        return op
