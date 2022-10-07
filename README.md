@@ -92,6 +92,7 @@
 8. 1768 Merge Strings Alternately
 9. 1678 Goal Parser Interpretation
 10. 389 Find the Difference
+11. 709 To Lower Case
 # Bit Manipulation
 1. 393 UTF-8 Validation
 2. 1680 Concatenation of Consecutive Binary Numbers
