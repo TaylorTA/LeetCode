@@ -94,6 +94,7 @@
 10. 389 Find the Difference
 11. 709 To Lower Case
 12. 1309 Decrypt String from Alphabet to Integer Mapping
+13. 953 Verifying an Alien Dictionary
 # Bit Manipulation
 1. 393 UTF-8 Validation
 2. 1680 Concatenation of Consecutive Binary Numbers
