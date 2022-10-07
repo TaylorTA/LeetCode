@@ -91,6 +91,7 @@
 7. 1790 Check if One String Swap Can Make Strings Equal
 8. 1768 Merge Strings Alternately
 9. 1678 Goal Parser Interpretation
+10. 389 Find the Difference
 # Bit Manipulation
 1. 393 UTF-8 Validation
 2. 1680 Concatenation of Consecutive Binary Numbers
