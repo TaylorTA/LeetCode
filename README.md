@@ -48,7 +48,7 @@
 # Heap
 1. 703 Kth Largest Element in a Stream
 2. 347 Top K Frequent Elements
-3. 1046. Last Stone Weight
+3. 1046 Last Stone Weight
 4. 692 Top K Frequent Words
 # SQL
 1. 595 Big Countries
@@ -74,7 +74,7 @@
 10. 566 Reshape the Matrix
 11. 1155 Number of Dice Rolls With Target Sum
 12. 1578 Minimum Time to Make Rope Colorful
-13. 1502. Can Make Arithmetic Progression From Sequence
+13. 1502 Can Make Arithmetic Progression From Sequence
 14. 2428 Maximum Sum of an Hourglass
 15. 1588 Sum of All Odd Length Subarrays
 16. 283 Move Zeroes
@@ -101,7 +101,7 @@
 2. 1680 Concatenation of Consecutive Binary Numbers
 3. 191 Number of 1 Bits
 4. 2425 Bitwise XOR of All Pairings
-5. 2429. Minimize XOR
+5. 2429 Minimize XOR
 # Linked List
 1. 21 Merge Two Sorted Lists
 2. 206 Reverse Linked List
