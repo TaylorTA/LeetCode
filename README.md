@@ -118,6 +118,7 @@
 4. 981 Time Based Key-Value Store
 5. 732 My Calendar III
 6. 1603 Design Parking System
+7. 303 Range Sum Query - Immutable
 # Tree
 1. 1457 Pseudo-Palindromic Paths in a Binary Tree
 2. 298 Binary Tree Longest Consecutive Sequence
