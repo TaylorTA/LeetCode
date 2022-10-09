@@ -131,6 +131,7 @@
 9. 623 Add One Row to Tree
 10. 876 Middle of the Linked List
 11. 404 Sum of Left Leaves
+12. 653 Two Sum IV - Input is a BST
 # Hash Table
 1. 2007 Find Original Array From Doubled Array
 2. 609 Find Duplicate File in System
