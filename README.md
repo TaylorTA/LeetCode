@@ -83,6 +83,7 @@
 18. 1572 Matrix Diagonal Sum
 19. 531 Lonely Pixel I
 20. 1356 Sort Integers by The Number of 1 Bits
+21. 334 Increasing Triplet Subsequence
 # String
 1. 205 Isomorphic Strings
 2. 409 Longest Palindrome
