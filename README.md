@@ -122,6 +122,7 @@
 5. 732 My Calendar III
 6. 1603 Design Parking System
 7. 303 Range Sum Query - Immutable
+8. 716 Max Stack
 # Tree
 1. 1457 Pseudo-Palindromic Paths in a Binary Tree
 2. 298 Binary Tree Longest Consecutive Sequence
