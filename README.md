@@ -64,6 +64,7 @@
 10. 1527 Patients With a Condition
 11. 1965 Employees With Missing Information
 12. 1795 Rearrange Products Table
+13. 608 Tree Node
 # Array
 1. 682 Baseball Game
 2. 1260 Shift 2D Grid
