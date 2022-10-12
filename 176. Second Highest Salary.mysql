@@ -1,0 +1,4 @@
+# Write your MySQL query statement below
+select salary as SecondHighestSalary from (select salary from Employee union select null as salary) t
+group by salary 
+order by  salary desc limit 1,1
