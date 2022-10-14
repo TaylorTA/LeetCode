@@ -119,6 +119,7 @@
 6. 2 Add Two Numbers
 7. 1290 Convert Binary Number in a Linked List to Integer
 8. 237 Delete Node in a Linked List
+9. 2095 Delete the Middle Node of a Linked List
 # Design
 1. 362 Design Hit Counter
 2. 622 Design Circular Queue
