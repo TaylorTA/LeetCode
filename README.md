@@ -66,6 +66,7 @@
 12. 1795 Rearrange Products Table
 13. 608 Tree Node
 14. 176 Second Highest Salary
+15. 175 Combine Two Tables
 # Array
 1. 682 Baseball Game
 2. 1260 Shift 2D Grid
