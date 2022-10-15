@@ -70,6 +70,7 @@
 15. 175 Combine Two Tables
 16. 1581 Customer Who Visited but Did Not Make Any Transactions
 17. 1148 Article Views I
+18. 197 Rising Temperature
 # Array
 1. 682 Baseball Game
 2. 1260 Shift 2D Grid
