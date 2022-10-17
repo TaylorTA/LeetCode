@@ -110,6 +110,7 @@
 13. 953 Verifying an Alien Dictionary
 14. 242 Valid Anagram
 15. 1328 Break a Palindrome
+16. 1832 Check if the Sentence Is Pangram
 # Bit Manipulation
 1. 393 UTF-8 Validation
 2. 1680 Concatenation of Consecutive Binary Numbers
