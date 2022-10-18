@@ -78,6 +78,7 @@
 23. 586 Customer Placing the Largest Number of Orders
 24. 511 Game Play Analysis I
 25. 1890 The Latest Login in 2020
+26. 1741 Find Total Time Spent by Each Employee
 # Array
 1. 682 Baseball Game
 2. 1260 Shift 2D Grid
