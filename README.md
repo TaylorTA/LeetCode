@@ -85,6 +85,7 @@
 30. 182 Duplicate Emails
 31. 1050 Actors and Directors Who Cooperated At Least Three Times
 32. 1587 Bank Account Summary II
+33. 1084 Sales Analysis III
 # Array
 1. 682 Baseball Game
 2. 1260 Shift 2D Grid
