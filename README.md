@@ -76,6 +76,7 @@
 21. 1693 Daily Leads and Partners
 22. 1729 Find Followers Count
 23. 586 Customer Placing the Largest Number of Orders
+24. 511 Game Play Analysis I
 # Array
 1. 682 Baseball Game
 2. 1260 Shift 2D Grid
