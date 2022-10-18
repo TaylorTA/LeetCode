@@ -81,6 +81,7 @@
 26. 1741 Find Total Time Spent by Each Employee
 27. 1393 Capital Gain/Loss
 28. 1407 Top Travellers
+29. 1158 Market Analysis I
 # Array
 1. 682 Baseball Game
 2. 1260 Shift 2D Grid
