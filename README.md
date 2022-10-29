@@ -130,6 +130,7 @@
 16. 1832 Check if the Sentence Is Pangram
 17. 38 Count and Say
 18. 1662 Check If Two String Arrays are Equivalent
+19. 49 Group Anagrams
 # Bit Manipulation
 1. 393 UTF-8 Validation
 2. 1680 Concatenation of Consecutive Binary Numbers
