@@ -30,6 +30,7 @@
 3. 438 Find All Anagrams in a String
 4. 424 Longest Repeating Character Replacement
 5. 3 Longest Substring Without Repeating Characters
+6. 487 Max Consecutive Ones II
 # Dynamic Programming
 1. 416 Partition Equal Subset Sum
 2. 72 Edit Distance
