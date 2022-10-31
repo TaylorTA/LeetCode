@@ -113,6 +113,7 @@
 22. 219 Contains Duplicate II
 23. 645 Set Mismatch
 24. 523 Continuous Subarray Sum
+25. 766 Toeplitz Matrix
 # String
 1. 205 Isomorphic Strings
 2. 409 Longest Palindrome
