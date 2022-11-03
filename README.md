@@ -116,6 +116,7 @@
 25. 766 Toeplitz Matrix
 26. 1706 Where Will the Ball Fall
 27. 2131 Longest Palindrome by Concatenating Two Letter Words
+28. 1198 Find Smallest Common Element in All Rows
 # String
 1. 205 Isomorphic Strings
 2. 409 Longest Palindrome
