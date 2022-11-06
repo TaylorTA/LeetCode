@@ -201,3 +201,4 @@
 7. 2427 Number of Common Factors
 8. 1232 Check If It Is a Straight Line
 9. 12 Integer to Roman
+10. 899 Orderly Queue
