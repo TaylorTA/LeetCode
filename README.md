@@ -191,6 +191,7 @@
 2. 394 Decode String
 3. 496 Next Greater Element I
 4. 232 Implement Queue using Stacks
+5. 1544 Make The String Great
 # Math
 1. 1523 Count Odd Numbers in an Interval Range
 2. 1281 Subtract the Product and Sum of Digits of an Integer
