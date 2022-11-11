@@ -164,6 +164,7 @@
 10. 141 Linked List Cycle
 11. 21 Merge Two Sorted Lists
 12. 203 Remove Linked List Elements
+13. 206 Reverse Linked List
 # Design
 1. 362 Design Hit Counter
 2. 622 Design Circular Queue
