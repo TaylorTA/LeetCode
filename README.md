@@ -163,6 +163,7 @@
 9. 2095 Delete the Middle Node of a Linked List
 10. 141 Linked List Cycle
 11. 21 Merge Two Sorted Lists
+12. 203 Remove Linked List Elements
 # Design
 1. 362 Design Hit Counter
 2. 622 Design Circular Queue
