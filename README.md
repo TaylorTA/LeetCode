@@ -118,6 +118,7 @@
 27. 2131 Longest Palindrome by Concatenating Two Letter Words
 28. 1198 Find Smallest Common Element in All Rows
 29. 26 Remove Duplicates from Sorted Array
+30. 339 Nested List Weight Sum
 # String
 1. 205 Isomorphic Strings
 2. 409 Longest Palindrome
