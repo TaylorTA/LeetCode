@@ -121,6 +121,7 @@
 30. 339 Nested List Weight Sum
 31. 36 Valid Sudoku
 32. 74 Search a 2D Matrix
+33. 295 Find Median from Data Stream
 # String
 1. 205 Isomorphic Strings
 2. 409 Longest Palindrome
