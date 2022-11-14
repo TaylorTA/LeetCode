@@ -191,6 +191,7 @@
 11. 404 Sum of Left Leaves
 12. 653 Two Sum IV - Input is a BST
 13. 212 Word Search II (trie)
+14. 144 Binary Tree Preorder Traversal
 # Hash Table
 1. 2007 Find Original Array From Doubled Array
 2. 609 Find Duplicate File in System
