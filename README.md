@@ -193,6 +193,7 @@
 13. 212 Word Search II (trie)
 14. 94 Binary Tree Inorder Traversal
 15. 144 Binary Tree Preorder Traversal
+16. 145 Binary Tree Postorder Traversal
 # Hash Table
 1. 2007 Find Original Array From Doubled Array
 2. 609 Find Duplicate File in System
