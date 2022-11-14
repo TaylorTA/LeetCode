@@ -195,6 +195,7 @@
 15. 144 Binary Tree Preorder Traversal
 16. 145 Binary Tree Postorder Traversal
 17. 101 Symmetric Tree
+18. 226 Invert Binary Tree
 # Hash Table
 1. 2007 Find Original Array From Doubled Array
 2. 609 Find Duplicate File in System
