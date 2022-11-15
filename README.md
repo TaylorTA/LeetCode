@@ -196,6 +196,7 @@
 16. 145 Binary Tree Postorder Traversal
 17. 101 Symmetric Tree
 18. 226 Invert Binary Tree
+19. 222 Count Complete Tree Nodes
 # Hash Table
 1. 2007 Find Original Array From Doubled Array
 2. 609 Find Duplicate File in System
