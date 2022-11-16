@@ -232,3 +232,4 @@
 11. 1323 Maximum 69 Number
 # Binary Search
 1. 374 Guess Number Higher or Lower
+2. 35 Search Insert Position
