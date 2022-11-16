@@ -230,3 +230,5 @@
 9. 12 Integer to Roman
 10. 899 Orderly Queue
 11. 1323 Maximum 69 Number
+# Binary Search
+1. 374 Guess Number Higher or Lower
