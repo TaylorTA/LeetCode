@@ -230,6 +230,7 @@
 9. 12 Integer to Roman
 10. 899 Orderly Queue
 11. 1323 Maximum 69 Number
+12. 263 Ugly Number
 # Binary Search
 1. 374 Guess Number Higher or Lower
 2. 35 Search Insert Position
