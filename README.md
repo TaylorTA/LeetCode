@@ -219,6 +219,7 @@
 5. 1544 Make The String Great
 6. 901 Online Stock Span
 7. 20 Valid Parentheses
+8. 224 Basic Calculator
 # Math
 1. 1523 Count Odd Numbers in an Interval Range
 2. 1281 Subtract the Product and Sum of Digits of an Integer
