@@ -124,6 +124,7 @@
 32. 74 Search a 2D Matrix
 33. 295 Find Median from Data Stream
 34. 977 Squares of a Sorted Array
+35. 189 Rotate Array
 # String
 1. 205 Isomorphic Strings
 2. 409 Longest Palindrome
