@@ -215,6 +215,7 @@
 4. 947 Most Stones Removed with Same Row or Column
 5. 587 Erect the Fence
 6. 1926 Nearest Exit from Entrance in Maze
+7. 695 Max Area of Island
 # Stack
 1. 844 Backspace String Compare
 2. 394 Decode String
