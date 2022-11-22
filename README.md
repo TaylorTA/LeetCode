@@ -151,6 +151,7 @@
 22. 387 First Unique Character in a String
 23. 383 Ransom Note
 24. 151 Reverse Words in a String
+25. 246 Strobogrammatic Number
 # Bit Manipulation
 1. 393 UTF-8 Validation
 2. 1680 Concatenation of Consecutive Binary Numbers
