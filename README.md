@@ -32,6 +32,7 @@
 4. 424 Longest Repeating Character Replacement
 5. 3 Longest Substring Without Repeating Characters
 6. 487 Max Consecutive Ones II
+7. 567 Permutation in String
 # Dynamic Programming
 1. 416 Partition Equal Subset Sum
 2. 72 Edit Distance
