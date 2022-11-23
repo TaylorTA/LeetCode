@@ -204,6 +204,7 @@
 19. 222 Count Complete Tree Nodes
 20. 700 Search in a Binary Search Tree
 21. 701 Insert into a Binary Search Tree
+22. 617 Merge Two Binary Trees
 # Hash Table
 1. 2007 Find Original Array From Doubled Array
 2. 609 Find Duplicate File in System
