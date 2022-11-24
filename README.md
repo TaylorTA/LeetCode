@@ -221,6 +221,7 @@
 7. 695 Max Area of Island
 8. 79 Word Search
 9. 542 01 Matrix
+10. 994 Rotting Oranges
 # Stack
 1. 844 Backspace String Compare
 2. 394 Decode String
