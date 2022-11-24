@@ -220,6 +220,7 @@
 6. 1926 Nearest Exit from Entrance in Maze
 7. 695 Max Area of Island
 8. 79 Word Search
+9. 542 01 Matrix
 # Stack
 1. 844 Backspace String Compare
 2. 394 Decode String
