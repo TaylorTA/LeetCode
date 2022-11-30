@@ -128,6 +128,7 @@
 33. 295 Find Median from Data Stream
 34. 977 Squares of a Sorted Array
 35. 189 Rotate Array
+36. 1207 Unique Number of Occurrences
 # String
 1. 205 Isomorphic Strings
 2. 409 Longest Palindrome
