@@ -155,6 +155,7 @@
 23. 383 Ransom Note
 24. 151 Reverse Words in a String
 25. 246 Strobogrammatic Number
+26. 1704 Determine if String Halves Are Alike
 # Bit Manipulation
 1. 393 UTF-8 Validation
 2. 1680 Concatenation of Consecutive Binary Numbers
