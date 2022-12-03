@@ -159,6 +159,7 @@
 26. 1704 Determine if String Halves Are Alike
 27. 1165 Single-Row Keyboard
 28. 1657 Determine if Two Strings Are Close
+29. 451 Sort Characters By Frequency
 # Bit Manipulation
 1. 393 UTF-8 Validation
 2. 1680 Concatenation of Consecutive Binary Numbers
