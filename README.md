@@ -130,6 +130,7 @@
 35. 189 Rotate Array
 36. 1207 Unique Number of Occurrences
 37. 2225 Find Players With Zero or One Losses
+38. 2256 Minimum Average Difference
 # String
 1. 205 Isomorphic Strings
 2. 409 Longest Palindrome
