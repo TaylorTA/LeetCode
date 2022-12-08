@@ -216,6 +216,7 @@
 21. 701 Insert into a Binary Search Tree
 22. 617 Merge Two Binary Trees
 23. 116 Populating Next Right Pointers in Each Node
+24. 938 Range Sum of BST
 # Hash Table
 1. 2007 Find Original Array From Doubled Array
 2. 609 Find Duplicate File in System
