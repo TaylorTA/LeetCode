@@ -218,6 +218,7 @@
 23. 116 Populating Next Right Pointers in Each Node
 24. 938 Range Sum of BST
 25. 872 Leaf-Similar Trees
+26. 1339 Maximum Product of Splitted Binary Tree
 # Hash Table
 1. 2007 Find Original Array From Doubled Array
 2. 609 Find Duplicate File in System
