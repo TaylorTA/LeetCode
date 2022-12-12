@@ -168,6 +168,7 @@
 4. 2425 Bitwise XOR of All Pairings
 5. 2429 Minimize XOR
 6. 231 Power of Two
+7. 191 Number of 1 Bits
 # Linked List
 1. 21 Merge Two Sorted Lists
 2. 206 Reverse Linked List
