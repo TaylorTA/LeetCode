@@ -49,6 +49,7 @@
 13. 1235 Maximum Profit in Job Scheduling
 14. 446 Arithmetic Slices II - Subsequence
 15. 198 House Robber
+16. 120 Triangle
 # Binary Search
 1. 81 Search in Rotated Sorted Array II
 2. 74 Search a 2D Matrix
