@@ -273,3 +273,4 @@
 2. 35 Search Insert Position
 # Backtrack
 1. 77 Combinations
+2. 46 Permutations
