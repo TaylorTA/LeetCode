@@ -173,6 +173,7 @@
 6. 231 Power of Two
 7. 191 Number of 1 Bits
 8. 190 Reverse Bits
+9. 136 Single Number
 # Linked List
 1. 21 Merge Two Sorted Lists
 2. 206 Reverse Linked List
