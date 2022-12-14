@@ -52,6 +52,7 @@
 16. 120 Triangle
 17. 931 Minimum Falling Path Sum
 18. 1137 N-th Tribonacci Number
+19. 746 Min Cost Climbing Stairs
 # Binary Search
 1. 81 Search in Rotated Sorted Array II
 2. 74 Search a 2D Matrix
