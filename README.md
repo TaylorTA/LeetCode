@@ -26,6 +26,7 @@
 13. 121 Best Time to Buy and Sell Stock
 14. 2136 Earliest Possible Day of Full Bloom
 15. 2389 Longest Subsequence With Limited Sum
+16. 55 Jump Game
 # Sliding Window
 1. 76	Minimum Window Substring
 2. 159 Longest Substring with At Most Two Distinct Characters
