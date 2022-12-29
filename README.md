@@ -70,6 +70,7 @@
 2. 347 Top K Frequent Elements
 3. 1046 Last Stone Weight
 4. 692 Top K Frequent Words
+5. 1834 Single-Threaded CPU
 # SQL
 1. 595 Big Countries
 2. 1757 Recyclable and Low Fat Products
