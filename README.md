@@ -177,6 +177,7 @@
 29. 451 Sort Characters By Frequency
 30. 290 Word Pattern
 31. 520 Detect Capital
+32. 944 Delete Columns to Make Sorted
 # Bit Manipulation
 1. 393 UTF-8 Validation
 2. 1680 Concatenation of Consecutive Binary Numbers
