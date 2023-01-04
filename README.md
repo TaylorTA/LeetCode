@@ -28,6 +28,7 @@
 15. 2389 Longest Subsequence With Limited Sum
 16. 55 Jump Game
 17. 2279 Maximum Bags With Full Capacity of Rocks
+18. 2244 Minimum Rounds to Complete All Tasks
 # Sliding Window
 1. 76	Minimum Window Substring
 2. 159 Longest Substring with At Most Two Distinct Characters
