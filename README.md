@@ -30,6 +30,7 @@
 17. 2279 Maximum Bags With Full Capacity of Rocks
 18. 2244 Minimum Rounds to Complete All Tasks
 19. 1833 Maximum Ice Cream Bars
+20. 134 Gas Station
 # Sliding Window
 1. 76	Minimum Window Substring
 2. 159 Longest Substring with At Most Two Distinct Characters
