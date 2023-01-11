@@ -266,6 +266,7 @@
 11. 323 Number of Connected Components in an Undirected Graph
 12. 1971 Find if Path Exists in Graph
 13. 886 Possible Bipartition
+14. 1443 Minimum Time to Collect All Apples in a Tree
 # Stack
 1. 844 Backspace String Compare
 2. 394 Decode String
