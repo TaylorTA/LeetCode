@@ -248,6 +248,7 @@
 28. 834 Sum of Distances in Tree
 29. 100 Same Tree
 30. 1519 Number of Nodes in the Sub-Tree With the Same Label
+31. 2246 Longest Path With Different Adjacent Characters
 # Hash Table
 1. 2007 Find Original Array From Doubled Array
 2. 609 Find Duplicate File in System
