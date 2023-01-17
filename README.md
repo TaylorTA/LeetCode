@@ -184,6 +184,7 @@
 31. 520 Detect Capital
 32. 944 Delete Columns to Make Sorted
 33. 1061 Lexicographically Smallest Equivalent String
+34. 926 Flip String to Monotone Increasing
 # Bit Manipulation
 1. 393 UTF-8 Validation
 2. 1680 Concatenation of Consecutive Binary Numbers
