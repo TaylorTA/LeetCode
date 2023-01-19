@@ -303,6 +303,7 @@
 14. 279 Perfect Squares
 15. 1056 Confusing Number
 16. 149 Max Points on a Line
+17. 9 Palindrome Number
 # Binary Search
 1. 374 Guess Number Higher or Lower
 2. 35 Search Insert Position
