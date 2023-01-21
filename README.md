@@ -305,6 +305,7 @@
 15. 1056 Confusing Number
 16. 149 Max Points on a Line
 17. 9 Palindrome Number
+18. 93 Restore IP Addresses
 # Binary Search
 1. 374 Guess Number Higher or Lower
 2. 35 Search Insert Position
