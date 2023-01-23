@@ -152,6 +152,7 @@
 40. 2214 Minimum Health to Beat Game
 41. 57 Insert Interval
 42. 974 Subarray Sums Divisible by K
+43. 997 Find the Town Judge
 # String
 1. 205 Isomorphic Strings
 2. 409 Longest Palindrome
