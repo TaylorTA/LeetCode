@@ -154,6 +154,7 @@
 42. 974 Subarray Sums Divisible by K
 43. 997 Find the Town Judge
 44. 352 Data Stream as Disjoint Intervals
+45. 1470 Shuffle the Array
 # String
 1. 205 Isomorphic Strings
 2. 409 Longest Palindrome
