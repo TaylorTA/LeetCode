@@ -32,6 +32,7 @@
 19. 1833 Maximum Ice Cream Bars
 20. 134 Gas Station
 21. 918 Maximum Sum Circular Subarray
+22. 45 Jump Game II
 # Sliding Window
 1. 76	Minimum Window Substring
 2. 159 Longest Substring with At Most Two Distinct Characters
