@@ -284,6 +284,7 @@
 14. 1443 Minimum Time to Collect All Apples in a Tree
 15. 909 Snakes and Ladders
 16. 2359 Find Closest Node to Given Two Nodes
+17. 1162 As Far from Land as Possible
 # Stack
 1. 844 Backspace String Compare
 2. 394 Decode String
